@@ -1,0 +1,19 @@
+{
+  "name": "home_line_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "linebot": "^1.6.1",
+    "log4js": "^6.9.1",
+    "prettier": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
